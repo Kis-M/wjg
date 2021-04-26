@@ -1,0 +1,18 @@
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\bin\Debug\串口示波器.exe.config
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\obj\Debug\串口示波器.Properties.Resources.resources
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\obj\Debug\串口示波器.csproj.GenerateResource.Cache
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\bin\Debug\串口示波器.exe
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\bin\Debug\串口示波器.pdb
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\obj\Debug\串口示波器.exe
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\obj\Debug\串口示波器.pdb
+D:\Forward\work\04_uart_curve\03串口示波器\串口示波器\obj\Debug\串口示波器.csprojResolveAssemblyReference.cache
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\bin\Debug\串口示波器.exe.config
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\obj\Debug\串口示波器.exe
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\obj\Debug\串口示波器.pdb
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\obj\Debug\串口示波器.csprojResolveAssemblyReference.cache
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\obj\Debug\串口示波器.Properties.Resources.resources
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\obj\Debug\串口示波器.csproj.GenerateResource.Cache
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\bin\Debug\串口示波器.exe
+D:\Forward\work\04_uart_curve\03串口示波器 - 副本\串口示波器\bin\Debug\串口示波器.pdb

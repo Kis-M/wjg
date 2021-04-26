@@ -1,0 +1,17 @@
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\bin\Debug\串口轨迹.exe.config
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\obj\Debug\串口轨迹.exe
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\bin\Debug\串口轨迹.exe
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\bin\Debug\串口轨迹.pdb
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\obj\Debug\串口轨迹.Properties.Resources.resources
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\obj\Debug\串口数据采集.csproj.GenerateResource.Cache
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\obj\Debug\串口轨迹.pdb
+C:\Users\shibo\Desktop\04串口数据采集\串口数据采集\obj\Debug\串口数据采集.csprojResolveAssemblyReference.cache
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\obj\Debug\串口数据采集.csproj.GenerateResource.cache
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\obj\Debug\串口数据采集.Properties.Resources.resources
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\bin\Debug\串口数据采集.exe.config
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\bin\Debug\串口数据采集.exe
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\bin\Debug\串口数据采集.pdb
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\obj\Debug\串口数据采集.exe
+D:\Forward\work\04_uart_curve\05串口数据采集_温湿度\c#\串口数据采集\obj\Debug\串口数据采集.pdb
