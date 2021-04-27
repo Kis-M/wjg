@@ -1,4 +1,0 @@
-Change Component DesignItemId : Designator=U10 Old DesignItemId=BELL New DesignItemId=CON2
-Change Component Footprint: Designator=U10 Old Footprint=BEEP New Footprint=SIP2
-Change Component Comment : Designator=U10 Old Comment=µç»ú New Comment=CON2
-Added Room: Name=STM32 ²èÒ¶ÎÂÊª¶È
