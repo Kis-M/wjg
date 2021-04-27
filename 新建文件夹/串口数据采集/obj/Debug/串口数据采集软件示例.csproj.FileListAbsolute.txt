@@ -1,8 +1,0 @@
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\bin\Debug\串口数据采集软件.exe.config
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\obj\Debug\WindowsFormsApplication1.Form2.resources
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\obj\Debug\串口数据采集软件示例.csproj.GenerateResource.Cache
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\bin\Debug\串口数据采集软件.exe
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\bin\Debug\串口数据采集软件.pdb
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\obj\Debug\串口数据采集软件.Properties.Resources.resources
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\obj\Debug\串口数据采集软件.exe
-C:\Users\shibo\Desktop\1串口数据采集软件示例\C#\串口数据采集软件示例\obj\Debug\串口数据采集软件.pdb
